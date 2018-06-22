@@ -1,0 +1,27 @@
+{
+  "name": "math-z-score",
+  "version": "1.0.0",
+  "description": "Small module to calculate the standard score or the z-score",
+  "main": "index.js",
+  "dependencies": {
+    "math-standard-deviation": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/math-z-score.git"
+  },
+  "keywords": [
+    "standard-score",
+    "z-score"
+  ],
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/math-z-score/issues"
+  },
+  "homepage": "https://github.com/diversen/math-z-score#readme"
+}
